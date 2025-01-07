@@ -1,16 +1,19 @@
 # partylux
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Nightlife App connects users with the best local clubs, bars, and house parties, offering real-time event details, venue ratings, and timings. Key features include gender ratio insights, e-ticket purchases for easy access, and exclusive entry to VIP events. The app provides personalized recommendations, event reminders, and user reviews to help you choose the best nightlife experiences. It ensures convenience, exclusivity, and a tailored night out, all in one place.
 
-A few resources to get you started if this is your first Flutter project:
+### Tools Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Firebase
+- background location package
+- push notifications
+- Geolocator package
+- Google Maps API
+- In App Purchases
+- Firebase Cloud Messaging (FCM)
+- GetX
+- Xcode
+- Android Studio
