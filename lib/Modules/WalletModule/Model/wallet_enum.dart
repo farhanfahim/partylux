@@ -1,0 +1,5 @@
+
+
+enum WalletEnum{
+  credit,debit
+}

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "530453377117",
+    "firebase_url": "https://party-lux-4e1f3-default-rtdb.firebaseio.com",
+    "project_id": "party-lux-4e1f3",
+    "storage_bucket": "party-lux-4e1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530453377117:android:92e1435571f1af04b51db4",
+        "android_client_info": {
+          "package_name": "com.partylux.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530453377117-bugvj6cgf2lbdnhdkm9urhum77sh06q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partylux.dev",
+            "certificate_hash": "c4f20c349e352ac5cd9bead080a6cd6a4dbc177f"
+          }
+        },
+        {
+          "client_id": "530453377117-s1th9p8b8hmcdfaq01a28e8msdl5dchv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.partylux.dev",
+            "certificate_hash": "e024c5514881c3b2f12c8b5e91c778916ebdaca6"
+          }
+        },
+        {
+          "client_id": "530453377117-65uqd5ov7lvmuo3tns7ecn7pu94mvj8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CF3AqDcZVJSiaG8shBYlFrMUDuQSavs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530453377117-65uqd5ov7lvmuo3tns7ecn7pu94mvj8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530453377117-92tt8cro2eepkd66sdt08ubihbkipkqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.partylux.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
